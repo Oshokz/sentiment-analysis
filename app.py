@@ -9,8 +9,6 @@ from keras.preprocessing.sequence import pad_sequences
 #from tensorflow.keras.models import pad_sequences
 import pickle  # to load model and tokenizer
 import numpy as np
-import flask
-u =34
 import warnings
 warnings.filterwarnings('ignore', category=DeprecationWarning)
 
